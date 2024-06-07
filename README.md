@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Gustavo Diaz</h1>
 <h3 align="center">Un experimentado Analista Desarrollador que busca convertirse en Cientifico de Datos.</h3>
 
-- 🔭 I’m currently working on Esource Capital Guatemala [Asistente Administrativo](esourcecapital.com)
+- 🔭 Actualmente trabajo en Esource Capital Guatemala [Asistente Administrativo](esourcecapital.com)
 
 - 🌱 Actualmente estoy estudiando Data Sciense **ahora mismo, aprendiendo Python.**
 
